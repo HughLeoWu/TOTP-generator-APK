@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\build\\intermediates\\res\\merged\\debug\\layout_pindefinitiondialog.xml.flat",
+        "source": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\src\\main\\res\\layout\\pindefinitiondialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\build\\intermediates\\res\\merged\\debug\\layout_about.xml.flat",
+        "source": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\build\\intermediates\\res\\merged\\debug\\menu_token_item_menu.xml.flat",
+        "source": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\src\\main\\res\\menu\\token_item_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\build\\intermediates\\res\\merged\\debug\\drawable_xclock.png.flat",
+        "source": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\src\\main\\res\\drawable\\xclock.png"
+    },
+    {
+        "merged": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\build\\intermediates\\res\\merged\\debug\\drawable_androidtoken.png.flat",
+        "source": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\src\\main\\res\\drawable\\androidtoken.png"
+    },
+    {
+        "merged": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\build\\intermediates\\res\\merged\\debug\\drawable_add.png.flat",
+        "source": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\build\\intermediates\\res\\merged\\debug\\layout_token_add.xml.flat",
+        "source": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\src\\main\\res\\layout\\token_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\build\\intermediates\\res\\merged\\debug\\layout_pinremove.xml.flat",
+        "source": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\src\\main\\res\\layout\\pinremove.xml"
+    },
+    {
+        "merged": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\build\\intermediates\\res\\merged\\debug\\layout_activity_q_r_code.xml.flat",
+        "source": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\src\\main\\res\\layout\\activity_q_r_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\build\\intermediates\\res\\merged\\debug\\layout_otpdialog.xml.flat",
+        "source": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\src\\main\\res\\layout\\otpdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\build\\intermediates\\res\\merged\\debug\\layout_token_list_row.xml.flat",
+        "source": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\src\\main\\res\\layout\\token_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_add_black_24dp.png.flat",
+        "source": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\src\\main\\res\\drawable\\baseline_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\build\\intermediates\\res\\merged\\debug\\layout_pinchange.xml.flat",
+        "source": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\src\\main\\res\\layout\\pinchange.xml"
+    },
+    {
+        "merged": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\build\\intermediates\\res\\merged\\debug\\layout_activity_setting.xml.flat",
+        "source": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\build\\intermediates\\res\\merged\\debug\\drawable_android50.png.flat",
+        "source": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\src\\main\\res\\drawable\\android50.png"
+    },
+    {
+        "merged": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\build\\intermediates\\res\\merged\\debug\\xml_root_preferences.xml.flat",
+        "source": "C:\\Users\\3069513\\AndroidStudioProjects\\Android_App\\androidtoken-master\\src\\main\\res\\xml\\root_preferences.xml"
+    }
+]

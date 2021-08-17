@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="uk.co.bitethebullet.android.token"
+    android:installLocation="auto"
+    android:targetSandboxVersion="2"
+    android:versionCode="6"
+    android:versionName="3.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="30" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true" />
+
+    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.NFC" />
+
+    <uses-feature
+        android:name="android.hardware.nfc"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@drawable/androidtoken"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.AppCompat.Light" >
+        <activity android:name="uk.co.bitethebullet.android.token.QRCodeActivity" />
+        <activity android:name="uk.co.bitethebullet.android.token.SettingActivity" />
+        <activity
+            android:name="uk.co.bitethebullet.android.token.TokenList"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="otpauth" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="application/com.jabil.chamberlain.demo" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="uk.co.bitethebullet.android.token.TokenAdd"
+            android:label="@string/app_name_add" />
+        <activity
+            android:name="uk.co.bitethebullet.android.token.PinChange"
+            android:label="@string/app_name_change_pin" />
+        <activity
+            android:name="uk.co.bitethebullet.android.token.PinRemove"
+            android:label="@string/app_name" />
+        <activity
+            android:name="uk.co.bitethebullet.android.token.About"
+            android:label="@string/app_name_about" />
+        <activity
+            android:name="androidx.biometric.DeviceCredentialHandlerActivity"
+            android:exported="true"
+            android:theme="@style/DeviceCredentialHandlerTheme" />
+    </application>
+
+</manifest>

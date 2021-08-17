@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "applicationId": "uk.co.bitethebullet.android.token",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "METADATA_FEATURE_MANIFEST"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 6,
+        "versionName": "3.0",
+        "outputFile": "androidtoken-master-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {}
+    }
+  ]
+}
